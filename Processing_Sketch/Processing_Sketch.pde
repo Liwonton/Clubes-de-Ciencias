@@ -1,5 +1,5 @@
 void setup() {
-  size(2000, 2000);
+  size(1000, 1000);
   colorMode(HSB);
 }
 
