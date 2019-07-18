@@ -36,6 +36,7 @@ class myDot{
          //where the snake eats itself :(
          locations = new ArrayList<PVector>();
          background(0);
+         noStroke();
        }
        else{
          c = color(255, 0, 0);
